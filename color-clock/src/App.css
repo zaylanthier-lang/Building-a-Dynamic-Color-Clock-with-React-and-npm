@@ -1,0 +1,26 @@
+/* Reset default spacing */
+body {
+  margin: 0;
+}
+
+/* Full screen center */
+.clock-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh; /* full screen height */
+}
+
+/* Clock styling */
+.clock-text {
+  font-size: 4rem;
+  font-weight: bold;
+  color: #38bdf8;
+
+  background-color: #0f172a;
+  padding: 30px 50px;
+  border-radius: 16px;
+
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+}
