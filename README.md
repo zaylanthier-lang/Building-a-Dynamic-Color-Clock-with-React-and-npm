@@ -1,1 +1,1 @@
-# Building-a-Dynamic-Color-Clock-with-React-and-npm
+This app displays the current date and time using React and the date-fns library. When the app is running, it shows a styled digital clock centered on the screen. The time updates based on the user’s system clock, providing an easy way to view the current date and time in a clean, readable format.
